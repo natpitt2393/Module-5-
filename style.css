@@ -1,0 +1,61 @@
+body{
+    background-color: lightcoral;
+}
+
+h1 {
+    text-align: center;
+}rdcx 
+x
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#big {
+    font-size: 100px;
+}
+
+#tiny {
+    font-size: small;
+}
+
+#center {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#helvetica {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#orange_bold_and_big {
+    color: orange;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.styledFont {
+    color: green;
+    font-style: italic;
+    font-weight:bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orchid;
+    padding: 20px;
+}
+
+#styledImage {
+    border-width: thick;
+    padding: 40px;
+    color: khaki;   
+}
+
